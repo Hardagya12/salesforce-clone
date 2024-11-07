@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/yourusername/salesforce-website-clone.git
+git clone https://github.com/Hardagya12/salesforce-clone.git
 Open in your browser:
 Simply open index.html in your favorite web browser to view the clone.
 
